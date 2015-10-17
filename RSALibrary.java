@@ -1,3 +1,8 @@
+/*
+Laura Benito Martin 100284695
+Rafael Leon Miranda 100275593
+*/
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
